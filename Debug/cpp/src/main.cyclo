@@ -1,0 +1,8 @@
+../cpp/src/main.cpp:22:6:void setDutyCycle(uint16_t)	2
+../cpp/src/main.cpp:96:6:void commucate()	4
+../cpp/src/main.cpp:157:6:void HAL_GPIO_EXTI_Callback(uint16_t)	5
+../cpp/src/main.cpp:166:6:void HAL_TIM_OC_DelayElapsedCallback(TIM_HandleTypeDef*)	4
+../cpp/src/main.cpp:175:6:void processDmaSignal()	1
+../cpp/src/main.cpp:181:6:void HAL_ADC_ConvCpltCallback(ADC_HandleTypeDef*)	1
+../cpp/src/main.cpp:186:6:void setup()	4
+../cpp/src/main.cpp:223:6:void maincpp()	4
